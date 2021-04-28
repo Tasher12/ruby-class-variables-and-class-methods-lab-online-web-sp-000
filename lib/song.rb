@@ -60,5 +60,5 @@ end
     @@genre.push(genre) unless @@genre.includes(genre)
   end 
     
->>>>>>> cd4275a9c0f1c57b28d3d6315cf827b9e7030e3a
+#>>>>>>> cd4275a9c0f1c57b28d3d6315cf827b9e7030e3a
 end 
