@@ -1,7 +1,7 @@
 class Song
 
   @@count = 0 
-#<<<<<<< HEAD
+<<<<<<< HEAD
   @@genres = []
   @@artists = []
   
@@ -40,7 +40,7 @@ end
     @@artists.each_with_object(Hash.new(0)){|value, key| key[value] += 1}
   end 
   
-#=======
+=======
   @@genre = []
   @@artist = []
   
@@ -60,5 +60,5 @@ end
     @@genre.push(genre) unless @@genre.includes(genre)
   end 
     
-#>>>>>>> cd4275a9c0f1c57b28d3d6315cf827b9e7030e3a
+>>>>>>> cd4275a9c0f1c57b28d3d6315cf827b9e7030e3a
 end 
