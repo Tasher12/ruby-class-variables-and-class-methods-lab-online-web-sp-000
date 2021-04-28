@@ -40,7 +40,7 @@ end
     @@artists.each_with_object(Hash.new(0)){|value, key| key[value] += 1}
   end 
   
-=======
+#=======
   @@genre = []
   @@artist = []
   
