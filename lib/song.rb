@@ -1,7 +1,7 @@
 class Song
 
   @@count = 0 
-<<<<<<< HEAD
+#<<<<<<< HEAD
   @@genres = []
   @@artists = []
   
